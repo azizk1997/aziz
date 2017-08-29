@@ -74,10 +74,13 @@ void s3::getdata()
 
 void cal(s1,s2,s3)
 {
+ if (s1.per>s.2per)
+ cout<<s1.per;
+ else if(s2.per>s3.per)
+ cout<<s2.per;
+ else
+ cout<<s3.per;
   
-  
-
-
 
 }  
 
